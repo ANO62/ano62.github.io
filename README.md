@@ -26,8 +26,3 @@ p {
   margin-bottom: 50px;
 }
 
-var button = document.getElementById("find-players");
-
-button.addEventListener("click", function() {
-  alert("Finding players...");
-});
